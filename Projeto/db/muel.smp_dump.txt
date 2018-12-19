@@ -1,0 +1,14 @@
+
+State Machine - |main|display:Dispm|state
+Name state.0111 state.1011 state.1101 state.1110 
+state.0111 0 0 0 0 
+state.1011 1 1 0 0 
+state.1101 1 0 1 0 
+state.1110 1 0 0 1 
+
+State Machine - |main|membrana:Memb|state
+Name state.esperar state.debounce state.receber state.mandar 
+state.mandar 0 0 0 0 
+state.receber 0 0 1 1 
+state.debounce 0 1 0 1 
+state.esperar 1 0 0 1 

@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -71.724
+TNS   : -2844.622
+
+Type  : Slow 1200mV 85C Model Setup 'membrana:Memb|lilCount:counter|little'
+Slack : -5.041
+TNS   : -275.453
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : -0.177
+TNS   : -0.177
+
+Type  : Slow 1200mV 85C Model Hold 'membrana:Memb|lilCount:counter|little'
+Slack : 0.423
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -179.953
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'membrana:Memb|lilCount:counter|little'
+Slack : -1.487
+TNS   : -108.551
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -66.278
+TNS   : -2629.454
+
+Type  : Slow 1200mV 0C Model Setup 'membrana:Memb|lilCount:counter|little'
+Slack : -4.687
+TNS   : -249.534
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : -0.135
+TNS   : -0.135
+
+Type  : Slow 1200mV 0C Model Hold 'membrana:Memb|lilCount:counter|little'
+Slack : 0.372
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -179.953
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'membrana:Memb|lilCount:counter|little'
+Slack : -1.487
+TNS   : -108.551
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -30.423
+TNS   : -1163.960
+
+Type  : Fast 1200mV 0C Model Setup 'membrana:Memb|lilCount:counter|little'
+Slack : -1.651
+TNS   : -76.709
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : -0.320
+TNS   : -0.320
+
+Type  : Fast 1200mV 0C Model Hold 'membrana:Memb|lilCount:counter|little'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -129.054
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'membrana:Memb|lilCount:counter|little'
+Slack : -1.000
+TNS   : -73.000
+
+------------------------------------------------------------
